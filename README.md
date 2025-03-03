@@ -1,3 +1,2 @@
 # New project 
-This was created from local system.
-Created by tejaswini 
+This was created from local system Created by tejaswini 
